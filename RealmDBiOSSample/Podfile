@@ -1,0 +1,7 @@
+target "RealmDBiOSSample" do
+    pod 'Realm'
+end
+
+target "RealmDBiOSSampleTests" do
+    pod 'Realm/Headers'
+end
